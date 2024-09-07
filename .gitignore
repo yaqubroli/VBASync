@@ -1,0 +1,54 @@
+# Build results
+bin/
+obj/
+out/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+# Packages folder can be ignored
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# if using Visual Studio, these files are not needed in version control
+.vs/
+.vscode/
+
+# Rider IDE files
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated Assembly Info files
+Generated_Code/
+
+# Log files
+*.log
+
+# Uncomment if you're using ReSharper
+# ReSharper/
+# _ReSharper/
+
+# ASP.NET Scaffolding
+Scaffolding/
+
+# Azure Web App deployment
+.publish/
+.vs/publish/
+
+# StyleCop code analysis results
+StyleCopCache/
+
+# Entity Framework Migrations
+Migrations/
+
+# dotnet watch auto-generated files
+.dotnet-watch.json
+
