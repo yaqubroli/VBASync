@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\iCloud\\Development\\VBASync\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|3RDPARTY{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\VBACompressionCodec.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|3RDPARTY{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\DiffPlex.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|3RDPARTY{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\Ookii.Dialogs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|3RDPARTY{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\OpenMCDF.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|3RDPARTY{FFC0997D-CCD5-49D3-A76E-F8AE83E2E890}|\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\SharpZipLib.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C03739-3447-441E-AFB2-BAF5F6C52CFE}|VBASync\\VBASync.csproj|\\\\mac\\icloud\\development\\vbasync\\src\\vbasync\\model\\vbatemporaryfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VBACompressionCodec.txt",
+              "DocumentMoniker": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\VBACompressionCodec.txt",
+              "RelativeDocumentMoniker": "..\\3RDPARTY\\VBACompressionCodec.txt",
+              "ToolTip": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\VBACompressionCodec.txt",
+              "RelativeToolTip": "..\\3RDPARTY\\VBACompressionCodec.txt",
+              "ViewState": "AgIAAAEAAAAAAAAAAAARwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T15:38:39.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiffPlex.txt",
+              "DocumentMoniker": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\DiffPlex.txt",
+              "RelativeDocumentMoniker": "..\\3RDPARTY\\DiffPlex.txt",
+              "ToolTip": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\DiffPlex.txt",
+              "RelativeToolTip": "..\\3RDPARTY\\DiffPlex.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T15:38:46.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ookii.Dialogs.txt",
+              "DocumentMoniker": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\Ookii.Dialogs.txt",
+              "RelativeDocumentMoniker": "..\\3RDPARTY\\Ookii.Dialogs.txt",
+              "ToolTip": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\Ookii.Dialogs.txt",
+              "RelativeToolTip": "..\\3RDPARTY\\Ookii.Dialogs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T15:38:45.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenMCDF.txt",
+              "DocumentMoniker": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\OpenMCDF.txt",
+              "RelativeDocumentMoniker": "..\\3RDPARTY\\OpenMCDF.txt",
+              "ToolTip": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\OpenMCDF.txt",
+              "RelativeToolTip": "..\\3RDPARTY\\OpenMCDF.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T15:38:44.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharpZipLib.txt",
+              "DocumentMoniker": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\SharpZipLib.txt",
+              "RelativeDocumentMoniker": "..\\3RDPARTY\\SharpZipLib.txt",
+              "ToolTip": "\\\\Mac\\iCloud\\Development\\VBASync\\3RDPARTY\\SharpZipLib.txt",
+              "RelativeToolTip": "..\\3RDPARTY\\SharpZipLib.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T15:38:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VbaTemporaryFolder.cs",
+              "DocumentMoniker": "\\\\Mac\\iCloud\\Development\\VBASync\\src\\VBASync\\Model\\VbaTemporaryFolder.cs",
+              "RelativeDocumentMoniker": "VBASync\\Model\\VbaTemporaryFolder.cs",
+              "ToolTip": "\\\\Mac\\iCloud\\Development\\VBASync\\src\\VBASync\\Model\\VbaTemporaryFolder.cs",
+              "RelativeToolTip": "VBASync\\Model\\VbaTemporaryFolder.cs",
+              "ViewState": "AgIAAEQDAAAAYmZmZuYmwGYEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:37:31.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

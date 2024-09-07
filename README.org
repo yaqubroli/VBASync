@@ -1,0 +1,17 @@
+
+* VBASync
+
+For usage instructions, see [[https://github.com/jbviviers/VBASync/blob/master/README.md][the original readme]].
+
+This repo contains /no/ improvements over its parent repo, but it does build on modern VS. No longer as a compact .exe, but as an .exe that depends on a folder full of DLLs.
+
+** What I've changed
+
+- Removed all references to Costura/Fody, so that it builds on modern VS2022
+- Removed all build tools for installer, since these will probably be broken
+
+** What I might change in the future
+
+- Modernise the code so it builds on modern versions of .NET, as a compact exe.
+- Add some kind of makefile or way to build it on macOS
+- Refactor the whole thing to Rust or something (wishful thinking)

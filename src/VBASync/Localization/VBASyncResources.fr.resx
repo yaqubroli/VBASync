@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ApplyAction" xml:space="preserve">
+    <value>_Appliquer</value>
+  </data>
+  <data name="BrowseAction" xml:space="preserve">
+    <value>_Parcourir</value>
+  </data>
+  <data name="CancelAction" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="CTAddFile" xml:space="preserve">
+    <value>Ajouter un fichier</value>
+  </data>
+  <data name="CTAddLines" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="CTAddSub" xml:space="preserve">
+    <value>Ajouter Sub</value>
+  </data>
+  <data name="CTChangeFileType" xml:space="preserve">
+    <value>Type de module</value>
+  </data>
+  <data name="CTChangeFormControls" xml:space="preserve">
+    <value>UserForm FRX</value>
+  </data>
+  <data name="CTChangeLines" xml:space="preserve">
+    <value>Changement</value>
+  </data>
+  <data name="CTDeleteFile" xml:space="preserve">
+    <value>Suppr. fichier</value>
+  </data>
+  <data name="CTDeleteFrx" xml:space="preserve">
+    <value>Suppr. UserForm FRX</value>
+  </data>
+  <data name="CTDeleteLines" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="CTDeleteSub" xml:space="preserve">
+    <value>Supprimer Sub</value>
+  </data>
+  <data name="CTMoveFile" xml:space="preserve">
+    <value>Renommer le fichier</value>
+  </data>
+  <data name="CTMoveSub" xml:space="preserve">
+    <value>Déplacer Sub</value>
+  </data>
+  <data name="CTProject" xml:space="preserve">
+    <value>Projet</value>
+  </data>
+  <data name="CTReplaceId" xml:space="preserve">
+    <value>Remplacer</value>
+  </data>
+  <data name="CTWholeFile" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="MTClass" xml:space="preserve">
+    <value>Class</value>
+  </data>
+  <data name="MTForm" xml:space="preserve">
+    <value>UserForm</value>
+  </data>
+  <data name="MTIni" xml:space="preserve">
+    <value>Project</value>
+  </data>
+  <data name="MTStandard" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="MTStaticClass" xml:space="preserve">
+    <value>Document</value>
+  </data>
+  <data name="MWActionText" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="MWChangeType" xml:space="preserve">
+    <value>Change type</value>
+  </data>
+  <data name="MWDescription" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="MWExitMenu" xml:space="preserve">
+    <value>_Quitter</value>
+  </data>
+  <data name="MWExtract" xml:space="preserve">
+    <value>E_xtraire le VBA du fichier Office</value>
+  </data>
+  <data name="MWFileMenu" xml:space="preserve">
+    <value>_Fichier</value>
+  </data>
+  <data name="MWLoadLastMenu" xml:space="preserve">
+    <value>_Charger la dernière session</value>
+  </data>
+  <data name="MWLoadSessionMenu" xml:space="preserve">
+    <value>_Ouvrir session</value>
+  </data>
+  <data name="MWModule" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="MWOfficeFile" xml:space="preserve">
+    <value>Fichier _Office</value>
+  </data>
+  <data name="MWOpenAllFiles" xml:space="preserve">
+    <value>Tous les fichiers</value>
+  </data>
+  <data name="MWOpenAllSupported" xml:space="preserve">
+    <value>Tous les types supportés</value>
+  </data>
+  <data name="MWOpenExcel07" xml:space="preserve">
+    <value>Fichiers Excel 2007+</value>
+  </data>
+  <data name="MWOpenExcel97" xml:space="preserve">
+    <value>Fichiers Excel 97-2003</value>
+  </data>
+  <data name="MWOpenOutlook" xml:space="preserve">
+    <value>Fichiers Outlook</value>
+  </data>
+  <data name="MWOpenPpt07" xml:space="preserve">
+    <value>Fichiers PowerPoint 2007+</value>
+  </data>
+  <data name="MWOpenSAlone" xml:space="preserve">
+    <value>Projet VBA autonome</value>
+  </data>
+  <data name="MWOpenSession" xml:space="preserve">
+    <value>Fichiers session</value>
+  </data>
+  <data name="MWOpenWord07" xml:space="preserve">
+    <value>Fichiers Word 2007+</value>
+  </data>
+  <data name="MWOpenWord97" xml:space="preserve">
+    <value>Fichiers Word 97-2003</value>
+  </data>
+  <data name="MWPublish" xml:space="preserve">
+    <value>Pu_blier les modifications VBA vers le fichier Office</value>
+  </data>
+  <data name="MWRefreshAction" xml:space="preserve">
+    <value>_Rafraichir</value>
+  </data>
+  <data name="MWSaveSessionMenu" xml:space="preserve">
+    <value>_Sauvegarder la session</value>
+  </data>
+  <data name="MWSettingsMenu" xml:space="preserve">
+    <value>_Options</value>
+  </data>
+  <data name="MWTitle" xml:space="preserve">
+    <value>VBA Sync Tool</value>
+  </data>
+  <data name="MWVBAFolder" xml:space="preserve">
+    <value>_Dossier du projet VBA</value>
+  </data>
+  <data name="OKAction" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="SWDiffTool" xml:space="preserve">
+    <value>_Outil de Diff (optionnel)</value>
+  </data>
+  <data name="SWDiffToolParameters" xml:space="preserve">
+    <value>Paramètres de l'outil de D_iff</value>
+  </data>
+  <data name="SWDiffToolParametersHelp" xml:space="preserve">
+    <value>Macros: {OldFile}, {NewFile} (Ancien Fichier, Nouveau Fichier)</value>
+    <comment>{OldFile} and {NewFile} should not be translated. Clarify them in an explanatory note if needed.</comment>
+  </data>
+  <data name="SWOpenApplications" xml:space="preserve">
+    <value>Applications</value>
+  </data>
+  <data name="SWTitle" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="CDChangeFileType" xml:space="preserve">
+    <value>{0} → {1} et fichier modifié ({2})</value>
+    <comment>{0}: Original module type
+{1}: New module type
+{2}: Line difference (e.g., +8, -4, –)</comment>
+  </data>
+  <data name="CDWholeFile" xml:space="preserve">
+    <value>Fichier modifié ({0})</value>
+    <comment>{0}: Line difference (e.g., +8, -4, –)</comment>
+  </data>
+  <data name="ErrorCannotFindVbaProject" xml:space="preserve">
+    <value>'vbaProject.bin' non trouvé dans l'archive ZIP (le fichier Office).</value>
+  </data>
+  <data name="ErrorDecompressingStream" xml:space="preserve">
+    <value>Erreur lors de la décompression du flux '{0}': {1}</value>
+    <comment>{0}: Name of stream being processed
+{1}: Inner exception text</comment>
+  </data>
+  <data name="ErrorFrxColorSizeMismatch" xml:space="preserve">
+    <value>Erreur lors de la création d'OleColor: 4 octets attendus, mais {0} octets lus.</value>
+    <comment>{0}: Size of structure as read</comment>
+  </data>
+  <data name="ErrorFrxExpectedEndOfOleSiteConcreteControl" xml:space="preserve">
+    <value>Fin attendue d'OleSiteConcreteControl.</value>
+  </data>
+  <data name="ErrorFrxStreamSizeMismatch" xml:space="preserve">
+    <value>Erreur de lecture du flux '{0}' dans les données .frx : le champ {1} doit faire {2} octets, mais {3} octets lus.</value>
+    <comment>{0}: Stream name (f or o)
+{1}: Size field name in headers
+{2}: Expected size of structure
+{3}: Size of structure as read</comment>
+  </data>
+  <data name="ErrorPathCannotbeNullOrEmpty" xml:space="preserve">
+    <value>Le chemin d'accès au fichier ne doit pas être null ou vide.</value>
+  </data>
+  <data name="ErrorUnrecognizedModuleType" xml:space="preserve">
+    <value>Type de module non reconnu.</value>
+  </data>
+  <data name="ExplainFrxDifferentFileLists" xml:space="preserve">
+    <value>Listes de flux différentes dans le stockage '{0}'.
+
+Fichier 1 : {{'{1}'}}
+
+Fichier 2 : {{'{2}'}}</value>
+    <comment>{0}: Name of storage in .frx data
+{1}: List of streams in file 1, separated by ', '
+{2}: List of streams in file 2, separated by ', '</comment>
+  </data>
+  <data name="ExplainFrxGeneralStreamDifference" xml:space="preserve">
+    <value>Contenus différents du flux '{0}' dans le stockage '{1}'.</value>
+    <comment>{0}: Stream name where differences detected
+{1}: Storage containing stream</comment>
+  </data>
+  <data name="ExplainFrxOStreamDifference" xml:space="preserve">
+    <value>Contenus différents du flux 'o', site '{0}' dans le stockage '{1}'.</value>
+    <comment>{0}: Storage containing stream with differences
+{1}: Site name where differences were detected</comment>
+  </data>
+  <data name="SWLanguage" xml:space="preserve">
+    <value>_Langue (redémarrage nécessaire)</value>
+  </data>
+  <data name="AWTitle" xml:space="preserve">
+    <value>À propos de VBA Sync Tool</value>
+  </data>
+  <data name="AWVBASyncTool" xml:space="preserve">
+    <value>VBA Sync Tool</value>
+  </data>
+  <data name="AWVersion" xml:space="preserve">
+    <value>Version {0}</value>
+  </data>
+  <data name="AWCopyright" xml:space="preserve">
+    <value>Droits d'auteur © {0} Chelsea Hughes. Pour plus de détails, lisez le fichier {1}</value>
+  </data>
+  <data name="AWWebsite" xml:space="preserve">
+    <value>Support du logiciel sur le site {0}</value>
+  </data>
+  <data name="AWWTFIsThis" xml:space="preserve">
+    <value>Synchronise les macros VBA d'un fichier Office avec un dossier, typiquement suivi par un système de gestion de configuration (Git, SVN, etc.).</value>
+  </data>
+  <data name="MWAboutMenu" xml:space="preserve">
+    <value>À propos de VBA Sync Tool (_A)</value>
+  </data>
+  <data name="MWHelpMenu" xml:space="preserve">
+    <value>Aide (_H)</value>
+  </data>
+  <data name="ExplainFrxTitle" xml:space="preserve">
+    <value>Différence dans le fichier FRX</value>
+  </data>
+  <data name="MWEditMenu" xml:space="preserve">
+    <value>Édition (_E)</value>
+  </data>
+  <data name="AltF4" xml:space="preserve">
+    <value>Alt+F4</value>
+  </data>
+  <data name="CtrlL" xml:space="preserve">
+    <value>Ctrl+L</value>
+  </data>
+  <data name="CtrlO" xml:space="preserve">
+    <value>Ctrl+O</value>
+  </data>
+  <data name="CtrlS" xml:space="preserve">
+    <value>Ctrl+S</value>
+  </data>
+  <data name="MTLicenses" xml:space="preserve">
+    <value>Licenses</value>
+  </data>
+  <data name="CTLicenses" xml:space="preserve">
+    <value>Licenses</value>
+  </data>
+  <data name="ErrorCannotLoadGUI" xml:space="preserve">
+    <value>Impossible de charger l'interface WPF. Si votre système n'est pas Windows ou ne supporte par le WPF, vous ne pouvez exécuter VBASync qu'en spécifiant -r en ligne de commande.</value>
+  </data>
+  <data name="SWAddNewDocumentsToFile" xml:space="preserve">
+    <value>Autoriser l'ajout de nouveaux modules de type documents lors de la publication (option expert)</value>
+  </data>
+  <data name="SWGeneralTab" xml:space="preserve">
+    <value>Général</value>
+  </data>
+  <data name="SWSessionTab" xml:space="preserve">
+    <value>Session</value>
+  </data>
+  <data name="SWIgnoreEmpty" xml:space="preserve">
+    <value>Ignorer les modules vides</value>
+  </data>
+  <data name="SWAfterExtractHook" xml:space="preserve">
+    <value>Hook post-extraction</value>
+  </data>
+  <data name="SWAfterExtractHookHelp" xml:space="preserve">
+    <value>Macros : {TargetDir}</value>
+  </data>
+  <data name="SWBeforePublishHook" xml:space="preserve">
+    <value>Hook pré-publication</value>
+  </data>
+  <data name="SWBeforePublishHookHelp" xml:space="preserve">
+    <value>Macros : {TargetDir}</value>
+  </data>
+  <data name="SWDeleteDocumentsFromFile" xml:space="preserve">
+    <value>Autoriser la suppression de modules de type document lors de la publication (option expert)</value>
+  </data>
+  <data name="SWSearchRepositorySubdirectories" xml:space="preserve">
+    <value>Rechercher dans les sous dossiers du projet VBA</value>
+  </data>
+</root>
